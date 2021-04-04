@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**xpartano/xpartano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hey there! 👋🏽
 My name is Alberto, and I'm currently studying Computer Science at [42 Madrid](https://www.42madrid.com/).
 ### My skills
@@ -22,3 +17,7 @@ My name is Alberto, and I'm currently studying Computer Science at [42 Madrid](h
 #### My github stats
 ![Jballest's github stats](https://github-readme-stats.vercel.app/api?username=xpartano&show_icons=true&theme=dracula&count_private=true&hide=prs,issues) 
 ![Jballest's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=xpartano&show_icons=true&theme=dracula&layout=compact&count_private=true&hide=ShaderLab,HLSL)
+
+
+<!--
+**xpartano/xpartano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
